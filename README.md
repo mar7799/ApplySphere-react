@@ -1,2 +1,2 @@
 # ApplySphere-react
-Creating an user interface to apply all schools at one place. 
+Creating an user interface to apply for all schools at one place. 
